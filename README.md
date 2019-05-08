@@ -1,2 +1,0 @@
-# springboot
-Spring boot tutorials
